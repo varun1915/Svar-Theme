@@ -1,7 +1,7 @@
 {
     "name": "svar-theme",
     "displayName": "Svar Theme",
-    "description": "Can't find a theme to satisfy my eyes so I  made one.",
+    "description": "A Clean Visual Studio Code dark theme. Can't find a theme to satisfy my eyes so I made one.",
     "version": "0.0.1",
     "publisher": "VarunSaini",
     "repository": {
