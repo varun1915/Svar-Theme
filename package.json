@@ -1,0 +1,42 @@
+{
+    "name": "svar-theme",
+    "displayName": "Svar Theme",
+    "description": "Can't find a theme to satisfy my eyes so I  made one.",
+    "version": "0.0.1",
+    "publisher": "VarunSaini",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/varun1915/Svar-Theme"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "svar",
+        "svar-theme",
+        "svar theme",
+        "varun",
+        "varun saini",
+        "dream",
+        "excellent",
+        "best theme",
+        "best",
+        "purplish",
+        "purple",
+        "incredible"
+    ],
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Svar Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Svar Theme-color-theme.json"
+            }
+        ]
+    }
+}
